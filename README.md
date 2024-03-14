@@ -1,0 +1,2 @@
+# Artificial_Intelligence_Class
+Artificial intelligence class
