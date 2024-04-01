@@ -6,7 +6,7 @@ This is the repository of the materials taught in the **Introduction To Artifici
 
 ## Course Instructor:
 
-Dr. Shahab Nabavi
+Dr. Shahabedin Nabavi
 
 ## TAs:
 
