@@ -18,6 +18,6 @@ Dr. Shahab Nabavi
 
 | Content                                                                                              | Video link        | Code link        |
 | ---------------------------------------------------------------------------------------------------- | ----------------- | -----------------|
-| [Python Review 1](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/1_Python_Review)| [Link]() |  |
-| [Python Review 2](https://github.com/SBU-CE/EE085-Introduction-To-AI/tree/main/Fall2023/2_Python_Review)| [Link](https://drive.google.com/drive/folders/11sYcZRaB-_eFD5i4uENNEH1CqkEr9vb4?usp=sharing) | [Link](https://github.com/AliSoleimani2001/Introduction_To_AI_Class/blob/main/session1.py) |
-| [Python Review 3]()| [Link](https://drive.google.com/file/d/1XFh0HQFxmVFsfW3o7FTZUTe_55zPPviL/view?usp=sharing) | [Link]()  |
+| [Python Review 1]| |  |
+| [Python Review 2]| [Link]() | [Link](https://github.com/AliSoleimani2001/Introduction_To_AI_Class/blob/main/session1.py) |
+| [Python Review 3]| [Link](https://drive.google.com/file/d/1XFh0HQFxmVFsfW3o7FTZUTe_55zPPviL/view?usp=sharing) | [Link]()  |
