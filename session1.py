@@ -11,6 +11,7 @@ print(type(i))      # <class 'int'>
 
 print('------')
 
+
 f = 3.6       
 print(type(f))      # <class 'float'>
 
